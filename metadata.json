@@ -1,0 +1,8 @@
+{
+  "name": "CCLO Wellness Collector",
+  "description": "An intelligent wellness directory and collection manager. Features AI library recognition, interactive maps, and cinematic vault previews.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
